@@ -1,1 +1,1 @@
-Firmware 18.1.0
+Firmware Nintendo Switch
